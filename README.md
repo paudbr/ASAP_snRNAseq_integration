@@ -288,8 +288,6 @@ singularity build cellbender.sif   docker://pdeblas/cellbender:0.3.0-gpu
 
 ## Citation
 
-If you use this pipeline, please cite:
-
 For the in-house ASAP test dataset used for pipeline validation, please cite:
 
 > Garza R, et al. (2026). [Title]. *Science Advances.* [DOI: to be added]
