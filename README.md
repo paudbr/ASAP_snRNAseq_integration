@@ -290,7 +290,7 @@ singularity build cellbender.sif   docker://pdeblas/cellbender:0.3.0-gpu
 
 For the in-house ASAP test dataset used for pipeline validation, please cite:
 
-> Garza R, et al. (2026). [Title]. *Science Advances.* [DOI: to be added]
+> Garza R, et al. (2026). [Title]. *Science Advances.* [DOI: 10.1126/sciadv.aed2952]
 
 ---
 
