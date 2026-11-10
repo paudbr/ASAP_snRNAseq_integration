@@ -354,7 +354,7 @@ singularity build scrnaseq.sif     docker://pdeblas/scrnaseq:latest
 singularity build rocker.sif       docker://pdeblas/rocker:latest
 singularity build scvitools.sif    docker://pdeblas/scvitools:1.5.1-gpu
 singularity build cellbender.sif   docker://pdeblas/cellbender:0.3.0-gpu
-# cellsnp-lite SIF is pre-built on COSMOS-SENS; see nextflow.config for path
+singularity build cellsnp.sif   docker://quay.io/biocontainers/cellsnp-lite::1.2.3--ha0c3a46_6
 ```
 
 ---
