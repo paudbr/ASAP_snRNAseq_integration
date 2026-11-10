@@ -376,7 +376,7 @@ singularity build cellsnp.sif   docker://quay.io/biocontainers/cellsnp-lite::1.2
 
 For the in-house ASAP test dataset used for pipeline validation, please cite:
 
-> Garza R, et al. (2026). [Title]. *Science Advances.* [DOI: 10.1126/sciadv.aed2952]
+> Garza R, et al. (2026). [Activation of transposable elements is linked to a region- and cell type–specific interferon response in Parkinson’s disease]. *Science Advances.* [DOI: 10.1126/sciadv.aed2952]
 
 ---
 
